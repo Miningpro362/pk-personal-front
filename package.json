@@ -21,6 +21,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-netlify": "1.0.0-next.84",
 		"@sveltejs/adapter-node": "1.0.0-next.86",
 		"@sveltejs/adapter-static": "1.0.0-next.42",
 		"discord-markdown": "^2.5.1",
